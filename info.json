@@ -4,4 +4,9 @@
    "devices": ["CPH21859E66A75F5172E60C"],
    "expiry": "19-12-2024 12:00 PM"
 },
+  "matboogel": {
+   "password": "$2y$12$LMD0JrY6.mzzxsWAgQCZoeDcizIIMtJ9QVG1TQOiuAkrVnkV18W1G",
+   "devices": ["REDMINOTE106A27EDE3273C0177"],
+   "expiry": "09-12-2024 12:00 PM"
+},
 }
