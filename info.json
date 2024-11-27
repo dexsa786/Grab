@@ -4,14 +4,4 @@
    "devices": ["CPH21859E66A75F5172E60C"],
    "expiry": "19-12-2024 12:00 PM"
 },
-  "matboogel": {
-   "password": "$2y$12$LMD0JrY6.mzzxsWAgQCZoeDcizIIMtJ9QVG1TQOiuAkrVnkV18W1G",
-   "devices": ["REDMINOTE106A27EDE3273C0177"],
-   "expiry": "09-12-2024 12:00 PM"
-},
-  "adealfian": {
-   "password": "$2y$12$J5l8mTwD4okJMJjY9omXUOAQBg44TVAwozrQo4pifO3dhqvLhKIiy",
-   "devices": ["REDMINOTE5A4E2DD43A"],
-   "expiry": "30-11-2024 12:00 PM"
-},
 }
